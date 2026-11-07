@@ -1,0 +1,104 @@
+# Gugu Sabores — robots.txt
+# Todos os motores de busca e crawlers podem aceder a todo o site.
+
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: YandexImages
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Naverbot
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: SeznamBot
+Allow: /
+
+User-agent: Sogou web spider
+Allow: /
+
+User-agent: Qwantify
+Allow: /
+
+User-agent: Ecosia
+Allow: /
+
+User-agent: PetalBot
+Allow: /
+
+# Assistentes de IA e motores de resposta
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+Sitemap: https://www.gugusabores.com/sitemap.xml

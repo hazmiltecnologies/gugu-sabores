@@ -1,0 +1,40 @@
+# Gugu Sabores
+
+> O Gugu Sabores (Ponto Gugu Sabores) é um restaurante de fast food no Cassenda, em Luanda, Angola. Serve hambúrgueres, fahitas e sandes com muito sabor, e aceita pedidos pelo WhatsApp. O site está disponível em português, inglês, chinês, francês, espanhol e russo.
+
+Informação essencial:
+- Nome: Gugu Sabores (também "Ponto Gugu Sabores")
+- Tipo: restaurante de fast food (hambúrgueres, fahitas, sandes)
+- Morada: Rua 3, edifício Morreus, Cassenda, Luanda, Angola
+- Telefone / WhatsApp: +244 928 321 286
+- Moeda: kwanza angolano (Kz)
+- Preços: de 2.000 Kz (Sandes) a 6.000 Kz (Fahitão)
+- Pedidos: pelo WhatsApp, através do menu do site (pedido já preenchido)
+
+## Páginas principais
+
+- [Gugu Sabores — página principal](https://www.gugusabores.com/): apresentação do restaurante, menu, feedback, contactos e localização.
+- [Menu e preços](https://www.gugusabores.com/#menu): hambúrgueres, fahitas e sandes, com opção de batata frita (+1.000 Kz por unidade).
+- [Perguntas frequentes e tabela de preços](https://www.gugusabores.com/#sobre): preços, como pedir e onde estamos.
+- [Feedback da Jessi Madalena](https://www.gugusabores.com/#feedback): vídeos de TikTok sobre o Guguzinho e o Fahitão.
+- [Contactos](https://www.gugusabores.com/#contactos): WhatsApp e Instagram.
+- [Localização](https://www.gugusabores.com/#localizacao): Cassenda, Rua 3, edifício Morreus, Luanda.
+
+## Menu
+
+- Hambúrgueres: Hamburger simples (3.000 Kz), Hamburger duplo (5.500 Kz)
+- Fahitas: Fahita simples (2.800 Kz), Fahitão (6.000 Kz)
+- Sandes: Sandes (2.000 Kz), Guguzinho (2.500 Kz)
+- Extra: batata frita, +1.000 Kz por unidade
+
+## Contactos e redes
+
+- [WhatsApp](https://wa.me/244928321286): pedidos e contacto direto.
+- [Instagram](https://www.instagram.com/ponto_gugu_sabores): novidades e bastidores.
+- [Mapa](https://maps.app.goo.gl/YDpy7wGhnk9WptqW7): localização no Google Maps.
+- [TikTok da Jessi Madalena](https://www.tiktok.com/@jessiemadalena): vídeos de feedback.
+
+## Optional
+
+- [Sitemap](https://www.gugusabores.com/sitemap.xml)
+- [robots.txt](https://www.gugusabores.com/robots.txt)
