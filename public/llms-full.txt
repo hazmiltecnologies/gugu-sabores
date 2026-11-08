@@ -6,26 +6,33 @@ Informação essencial:
 - Nome: Gugu Sabores (também "Ponto Gugu Sabores")
 - Tipo: restaurante de fast food (hambúrgueres, fahitas, sandes)
 - Morada: Rua 3, edifício Morreus, Cassenda, Luanda, Angola
-- Telefone / WhatsApp: +244 928 321 286
+- Telefones: +244 928 321 286 (também WhatsApp) / +244 958 138 784
+- Horário: 16:30 às 02:30
+- Entregas: das 16h às 00h30; o preço da entrega varia conforme a localização
 - Moeda: kwanza angolano (Kz)
-- Preços: de 2.000 Kz (Sandes) a 6.000 Kz (Fahitão)
+- Preços: de 2.000 Kz (Sandes) a 6.500 Kz (Fahitão)
 - Pedidos: pelo WhatsApp, através do menu do site (pedido já preenchido)
 
 ## Páginas principais
 
-- [Gugu Sabores — página principal](https://www.gugusabores.com/): apresentação do restaurante, menu, feedback, contactos e localização.
-- [Menu e preços](https://www.gugusabores.com/#menu): hambúrgueres, fahitas e sandes, com opção de batata frita (+1.000 Kz por unidade).
-- [Perguntas frequentes e tabela de preços](https://www.gugusabores.com/#sobre): preços, como pedir e onde estamos.
-- [Feedback da Jessi Madalena](https://www.gugusabores.com/#feedback): vídeos de TikTok sobre o Guguzinho e o Fahitão.
-- [Contactos](https://www.gugusabores.com/#contactos): WhatsApp e Instagram.
-- [Localização](https://www.gugusabores.com/#localizacao): Cassenda, Rua 3, edifício Morreus, Luanda.
+- [Gugu Sabores — página principal](https://gugu-sabores.web.app/): apresentação do restaurante, menu, feedback, contactos e localização.
+- [Menu e preços](https://gugu-sabores.web.app/#menu): hambúrgueres, fahitas e sandes, com opção de batata frita (+1.500 Kz por unidade).
+- [Perguntas frequentes e tabela de preços](https://gugu-sabores.web.app/#sobre): preços, como pedir e onde estamos.
+- [Feedback da Jessi Madalena](https://gugu-sabores.web.app/#feedback): vídeos de TikTok sobre o Guguzinho e o Fahitão.
+- [Contactos](https://gugu-sabores.web.app/#contactos): WhatsApp e Instagram.
+- [Localização](https://gugu-sabores.web.app/#localizacao): Cassenda, Rua 3, edifício Morreus, Luanda.
 
 ## Menu
 
 - Hambúrgueres: Hamburger simples (3.000 Kz), Hamburger duplo (5.500 Kz)
-- Fahitas: Fahita simples (2.800 Kz), Fahitão (6.000 Kz)
+- Fahitas: Fahita simples (3.200 Kz), Fahitão (6.500 Kz)
 - Sandes: Sandes (2.000 Kz), Guguzinho (2.500 Kz)
-- Extra: batata frita, +1.000 Kz por unidade
+- Extra: batata frita, +1.500 Kz por unidade
+
+## Legal
+
+- [Política de Privacidade](https://gugu-sabores.web.app/privacidade.html): dados pessoais, cookies e Google Analytics (Lei n.º 22/11, Angola).
+- [Termos de Serviço](https://gugu-sabores.web.app/termos.html): pedidos pelo WhatsApp, preços, reclamações e lei aplicável.
 
 ## Contactos e redes
 
@@ -36,10 +43,6 @@ Informação essencial:
 
 ## Descrição dos pratos
 
-- [Sitemap](https://www.gugusabores.com/sitemap.xml)
-- [robots.txt](https://www.gugusabores.com/robots.txt)
-
-Descrições dos pratos:
 - Hamburger simples: o clássico que nunca falha, com pão macio, hambúrguer suculento e muito sabor.
 - Hamburger duplo: duas camadas generosas para quem leva a fome a sério.
 - Fahita simples: tortilha macia, recheio saboroso e um toque que pede outra dentada.
@@ -53,6 +56,17 @@ Descrições dos pratos:
 
 **Como faço o meu pedido?** Escolhe o prato no menu do site, define a quantidade, adiciona batata frita se quiseres e toca em "Pedir pelo WhatsApp". O pedido abre numa conversa já preenchida com o número +244 928 321 286.
 
-**Quais são os preços?** Sandes 2.000 Kz, Guguzinho 2.500 Kz, Fahita simples 2.800 Kz, Hamburger simples 3.000 Kz, Hamburger duplo 5.500 Kz e Fahitão 6.000 Kz.
+**Quais são os preços?** Sandes 2.000 Kz, Guguzinho 2.500 Kz, Fahita simples 3.200 Kz, Hamburger simples 3.000 Kz, Hamburger duplo 5.500 Kz e Fahitão 6.500 Kz.
 
-**Posso adicionar batata frita?** Sim, por mais 1.000 Kz por unidade.
+**Qual é o horário de funcionamento?** O Gugu Sabores abre das 16:30 às 02:30.
+
+**O Gugu Sabores faz entregas?** Sim, das 16h às 00h30. O preço da entrega varia conforme a localização e é confirmado na conversa de WhatsApp antes de finalizares o pedido.
+
+**Qual é o contacto telefónico?** 928 321 286 ou 958 138 784.
+
+**Posso adicionar batata frita?** Sim, por mais 1.500 Kz por unidade.
+
+## Optional
+
+- [Sitemap](https://gugu-sabores.web.app/sitemap.xml)
+- [robots.txt](https://gugu-sabores.web.app/robots.txt)

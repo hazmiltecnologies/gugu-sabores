@@ -45,3 +45,7 @@ body.dark .ck-btn.primary{background:var(--yellow);color:#211b13}
   .reveal{opacity:1!important;transform:none!important}
 }
 @media (forced-colors:active){.cookie-banner,.ck-btn,.random-pause{border:2px solid CanvasText}}
+
+/* contactos, horário e entregas */
+.contact-info{list-style:none;padding:0;margin:18px 0 6px;display:grid;gap:6px;font-size:15px;line-height:1.5}
+.contact-info a{text-decoration:underline;text-underline-offset:3px;font-weight:700}

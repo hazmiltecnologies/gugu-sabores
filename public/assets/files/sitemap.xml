@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://gugu-sabores.web.app/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://gugu-sabores.web.app/assets/logo-gugu.jpg</image:loc><image:title>Logo Gugu Sabores</image:title><image:caption>Logótipo do Gugu Sabores, Cassenda, Luanda</image:caption></image:image>
+    <image:image><image:loc>https://gugu-sabores.web.app/assets/hamburger-simples.jpeg</image:loc><image:title>Hamburger simples</image:title></image:image>
+    <image:image><image:loc>https://gugu-sabores.web.app/assets/hamburger-duplo.jpeg</image:loc><image:title>Hamburger duplo</image:title></image:image>
+    <image:image><image:loc>https://gugu-sabores.web.app/assets/fahita-simples.jpeg</image:loc><image:title>Fahita simples</image:title></image:image>
+    <image:image><image:loc>https://gugu-sabores.web.app/assets/fahitao.jpeg</image:loc><image:title>Fahitão</image:title></image:image>
+    <image:image><image:loc>https://gugu-sabores.web.app/assets/sandes.jpeg</image:loc><image:title>Sandes</image:title></image:image>
+    <image:image><image:loc>https://gugu-sabores.web.app/assets/guguzinho.jpeg</image:loc><image:title>Guguzinho</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://gugu-sabores.web.app/privacidade.html</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://gugu-sabores.web.app/termos.html</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>

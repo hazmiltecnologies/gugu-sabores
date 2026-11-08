@@ -101,4 +101,4 @@ Allow: /
 User-agent: meta-externalagent
 Allow: /
 
-Sitemap: https://www.gugusabores.com/sitemap.xml
+Sitemap: https://gugu-sabores.web.app/sitemap.xml
